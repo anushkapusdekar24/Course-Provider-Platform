@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Courses</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Courses</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Courses</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>Featured Courses</h2>
+			<ul class="courses">
+				<li>
+					<a href="#">
+						<img src="course1.jpg" alt="Course Image">
+						<h3>Course Title</h3>
+						<p>Course Description</p>
+						<p class="price">$99.99</p>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="course2.jpg" alt="Course Image">
+						<h3>Course Title</h3>
+						<p>Course Description</p>
+						<p class="price">$199.99</p>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="course3.jpg" alt="Course Image">
+						<h3>Course Title</h3>
+						<p>Course Description</p>
+						<p class="price">$299.99</p>
+					</a>
+				</li>
+			</ul>
+		</section>
+		<section>
+			<h2>All Courses</h2>
+			<ul class="courses">
+				<li>
+					<a href="#">
+						<img src="course1.jpg" alt="Course Image">
+						<h3>Course Title</h3>
+						<p>Course Description</p>
+						<p class="price">$99.99</p>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="course2.jpg" alt="Course Image">
+						<h3>Course Title</h3>
+						<p>Course Description</p>
+						<p class="price">$199.99</p>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="course3.jpg" alt="Course Image">
+						<h3>Course Title</h3>
+						<p>Course Description</p>
+						<p class="price">$299.99</p>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="course4.jpg" alt="Course Image">
+						<h3>Course Title</h3>
+						<p>Course Description</p>
+						<p class="price">$399.99</p>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<img src="course5.jpg" alt="Course Image">
+						<h3>Course Title</h3>
+						<p>Course Description</p>
+						<p class="price">$499.99</p>
+					</a>
